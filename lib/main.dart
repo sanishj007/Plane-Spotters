@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:plane_spotters/pages/home.dart';
+import 'package:plane_spotters/pages/lockScreen.dart';
 
 
 void main() async {
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home:Home()
+      home:lockScreen()
     );
   }
 }

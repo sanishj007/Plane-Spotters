@@ -1,2 +1,2 @@
 # Plane-Spotters
- an application for plane spotting enthusiests to share there photos and plan their photo shoots
+ an application for plane spotting enthusiast to share there photos and plan there photo shoots
